@@ -1,11 +1,14 @@
-# Hi 👋, I'm Aleena Varghese
+<h2 align="center">Hi 👋, I'm Aleena Varghese</h2>
 
-### 🎨 Figma Poster Designer
-### 🌱 Aspiring UI/UX Designer
-### 🚀 Computer Science Student
+<p align="center">
+🎨 Figma Poster Designer |
+🌱 Aspiring UI/UX Designer |
+🚀 Computer Science Student
+</p>
 
----
-# 🔍 About Me
+<hr>
+
+<h3>🔍 About Me</h3>
 
 - 🎓 B.Tech Computer Science Student
 - 🎨 I design posters using Figma
@@ -15,7 +18,7 @@
 
 ---
 
-# 🛠️ Skills
+<h3>🛠️ Skills</h3>
 
 - 🎨 Figma
 - ✏️ Poster Design
@@ -24,14 +27,15 @@
 
 ---
 
-# 📫 Connect with Me
+<h3>📫 Connect with Me</h3>
+
 
 - LinkedIn: https://www.linkedin.com/in/aleena-varghese-69940029b/
 - Email: aleenavarghese2005@gmail.com
 
 ---
+<h3>🛠️ Tech Stack</h3>
 
-# 🛠️ Tech Stack
 
 ### 🎨 Design & Creative
 
