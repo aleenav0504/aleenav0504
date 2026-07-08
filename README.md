@@ -16,7 +16,6 @@
 - 💻 Exploring Front-end Development
 - ✨ Passionate about creating clean and user-friendly interfaces
 
----
 
 <h3>🛠️ Skills</h3>
 
@@ -29,9 +28,10 @@
 
 <h3>📫 Connect with Me</h3>
 
-
+- Resume: [View My Resume](./Aleena_Varghese_Resume.pdf)
 - LinkedIn: https://www.linkedin.com/in/aleena-varghese-69940029b/
 - Email: aleenavarghese2005@gmail.com
+
 
 ---
 <h3>🛠️ Tech Stack</h3>
